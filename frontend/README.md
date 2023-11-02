@@ -1,3 +1,21 @@
+
+# Front-End
+
+Para el front se utilizó React, donde para poder usarlo debe tener ejecutando el backend
+
+# Instalación
+
+La instalación es muy simple, solo debe ejecutar lo siguiente
+
+```bash
+npm i
+
+# o
+
+npm install
+
+```
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
