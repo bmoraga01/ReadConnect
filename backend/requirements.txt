@@ -1,0 +1,9 @@
+django==4.2
+djangorestframework
+djangorestframework_simplejwt
+social-auth-app-django
+djoser
+django-cors-headers
+django-extensions
+Werkzeug
+weasyprint
