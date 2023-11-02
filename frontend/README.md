@@ -5,7 +5,7 @@ Para el front se utilizó React, donde para poder usarlo debe tener ejecutando e
 
 # Instalación
 
-La instalación es muy simple, solo debe ejecutar lo siguiente
+La instalación es muy simple, solo debe ejecutar lo siguiente:
 
 ```bash
 npm i
@@ -14,6 +14,12 @@ npm i
 
 npm install
 
+```
+
+Una vez terminada la instalación puede ejecutar el siguiente comando y ingresar a la siguiente dirección [http://localhost:5173](http://localhost:5173)
+
+```bash
+npm run dev
 ```
 
 # React + Vite
